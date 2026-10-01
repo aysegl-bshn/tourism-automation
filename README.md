@@ -40,21 +40,6 @@ Proje **Microsoft SQL Server** kullanılarak geliştirilmiştir.
 
 Turizm işletmelerinde kullanılabilecek temel verilerin düzenli, ilişkisel ve yönetilebilir bir yapıda tutulmasını sağlayan bir veritabanı sistemi oluşturulması amaçlanmıştır.
 
-### 📂 Proje İçeriği
-
-```text
-📁 tourism-automation-database
-│
-├── 📄 TurizmOtomasyonu.sql
-├── 📄 README.md
-├── 📁 ER-Diagram
-│   └── er-diagram.png
-│
-└── 📁 Screenshots
-    └── database-screenshot.png
-```
-
----
 
 ## 🇬🇧 English
 
@@ -91,22 +76,6 @@ The project was developed using **Microsoft SQL Server**.
 ### 🎯 Project Purpose
 
 The aim of this project is to create a structured and manageable relational database system that can be used for basic tourism business operations.
-
-### 📂 Project Structure
-
-```text
-📁 tourism-automation-database
-│
-├── 📄 TurizmOtomasyonu.sql
-├── 📄 README.md
-├── 📁 ER-Diagram
-│   └── er-diagram.png
-│
-└── 📁 Screenshots
-    └── database-screenshot.png
-```
-
----
 
 ## 👩‍💻 Developer
 
